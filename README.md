@@ -3,8 +3,9 @@
     >> pip install -r requirements.txt
     >> python3 pi-temp.py
 <p align="center">
-  <img src="https://github.com/Mstrmind-Hack/PI-TEMP/assets/104036615/ca1a6824-309b-4354-b837-f4cd4ec89ea1" alt="Sublime's custom image"/>
+  <img src="https://github.com/Mstrmind-Hack/PI-TEMP/assets/104036615/caeefc98-829a-4870-b0f3-173b25d2e523" alt="Sublime's custom image"/>
 </p>
+
 
 <h2 align="center">Everyone who has owned a Raspberry Pi Knows how important it is to monitor CPU temperatures.</h2>
 
@@ -13,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Mstrmind-Hack/PI-TEMP/assets/104036615/24c85559-9c59-46c0-a3a4-c49e6450d5cf" alt="Sublime's custom image"/>
+  <img src="https://github.com/Mstrmind-Hack/PI-TEMP/assets/104036615/59cffc2b-7e9f-4a46-81fb-70ccbc48466d" alt="Sublime's custom image"/>
 </p>
 
 
