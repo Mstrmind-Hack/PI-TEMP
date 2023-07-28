@@ -1,5 +1,5 @@
 ## PI-TEMP V1.0
-    >> git clone
+    >> git clone https://github.com/Mstrmind-Hack/PI-TEMP.git
     >> pip install -r requirements.txt
     >> python3 pi-temp.py
 <p align="center">
