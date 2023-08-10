@@ -1,4 +1,4 @@
-## PI-TEMP V1.0
+## PI-TEMP V1.1
     >> git clone https://github.com/Mstrmind-Hack/PI-TEMP.git
     >> pip install -r requirements.txt
     >> python3 pi-temp.py
@@ -24,8 +24,8 @@ The user also has the ability to select their own temperature range to their lik
 
 | Colors |Definition |Default Temp-Range |
 | --- | --- | ---|
-| Green |Acceptable |0°C - 45°C  |
-| Yellow |High|46°C - 60°C |
+| Green |Acceptable |0°C - 44°C  |
+| Yellow |High|45°C - 60°C |
 | Red |Critical  |T > 60°C   |
 
 
